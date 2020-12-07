@@ -1,0 +1,13 @@
+.sidebar{
+  width: $sidebar-width;
+  height: 100vh;
+  background-color:#929392 ;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: $z-index-sidebar;
+}
+.sidebar__header{
+  height: 180px;
+
+}
